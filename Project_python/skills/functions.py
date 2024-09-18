@@ -192,7 +192,7 @@ def pvp_game():
     GREEN = (0,255,0)
 
     WIDTH, HEIGHT = 800, 600
-    BALL_RADIUS = 11
+    BALL_RADIUS = 10
     PAD_WIDTH, PAD_HEIGHT = 10, 60
     HALF_PAD_HEIGHT = PAD_HEIGHT // 2
     ball_pos = [WIDTH // 2, HEIGHT // 2]
